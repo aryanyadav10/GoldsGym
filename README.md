@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Golds Gym
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a fitness web application created with help of ReactJS , Material UI and Rapid API.
+
+Website Link : goldsgym10.netlify.app
 
 ## Available Scripts
 
